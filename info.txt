@@ -1,0 +1,3 @@
+My name is Dmytro Severin
+I am 19.
+My skills: html,css,js,jquery,vue.js,vuex,php7,mysql,yii2,git,DOCKER
